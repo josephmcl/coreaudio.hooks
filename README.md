@@ -12,4 +12,4 @@ g++ -std=c++20 -O2 -dynamiclib \
 ```
 
 
-[A melody that solves the wave equation in julia](https://github.com/josephmcl/coreaudio.hooks/raw/refs/heads/main/wave_song.wav)
+[A melody that solves the wave equation in julia](https://github.com/josephmcl/coreaudio.hooks/raw/refs/heads/main/wave_song.mp3)
