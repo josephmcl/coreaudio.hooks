@@ -16,3 +16,6 @@ A melody that solves the wave equation in julia
 
 n = 24 ([mp3](https://github.com/josephmcl/coreaudio.hooks/raw/refs/heads/main/wave_song.mp3) | [wav](https://github.com/josephmcl/coreaudio.hooks/raw/refs/heads/main/wave_song.wav))
 n = 128 ([mp3](https://github.com/josephmcl/coreaudio.hooks/raw/refs/heads/main/wave_song_fine.mp3) | [wav](https://github.com/josephmcl/coreaudio.hooks/raw/refs/heads/main/wave_song_fine.wav))
+
+Added modal analysis 
+n = 128 ([mp3](https://github.com/josephmcl/coreaudio.hooks/raw/refs/heads/main/wave_song_ma.mp3) | [wav](https://github.com/josephmcl/coreaudio.hooks/raw/refs/heads/main/wave_song_ma.wav))
